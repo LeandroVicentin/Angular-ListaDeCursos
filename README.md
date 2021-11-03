@@ -3,7 +3,7 @@
 <hr />
 
 <div align="center">
-  <img src="./github/video-site.gif" alt="demo-site" height="425">
+  <img src="./github/video-site.gif" alt="demo-site" height="350">
 </div>
 
 <hr />
